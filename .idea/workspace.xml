@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="422bc2f4-66c7-4a78-bfa2-75c74411f219" name="Default Changelist" comment="" />
+    <list default="true" id="422bc2f4-66c7-4a78-bfa2-75c74411f219" name="Default Changelist" comment="Getting started on the final project">
+      <change afterPath="$PROJECT_DIR$/Диаграмма без названия.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +96,14 @@
       <option name="presentableId" value="Default" />
       <updated>1676606148266</updated>
     </task>
+    <task id="LOCAL-00001" summary="Getting started on the final project">
+      <created>1676607864373</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676607864374</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Getting started on the final project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getting started on the final project" />
   </component>
 </project>
