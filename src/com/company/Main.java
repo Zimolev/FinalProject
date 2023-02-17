@@ -9,7 +9,10 @@ public class Main {
         for (int i = 0; i < massiv.length; i++) {
             int lenghtWord = massiv[i].length();
             if (lenghtWord <=3) sizeMassivTwo = sizeMassivTwo + 1;
-        }        String[] massivThreeSimbol = new String[sizeMassivTwo];
+        }
+
+        String[] massivThreeSimbol = new String[sizeMassivTwo];
+
         for (int i = 0, j = 0; i < massiv.length; i++) {
             int lenghtWord = massiv[i].length();
             if (lenghtWord <=3)
